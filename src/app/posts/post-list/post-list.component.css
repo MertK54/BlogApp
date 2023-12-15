@@ -1,0 +1,26 @@
+:host{
+    /* host: bileşenin kendisine ait olan öğeleri hedef alır. */
+    display: block!important;
+    margin-top: 2rem;
+}
+mat-spinner {
+    margin: auto;
+  }
+  
+.info
+{
+    text-align: center;
+}
+.post-image {
+    width: 100%;
+  }
+  
+  .post-image img {
+    width: 20rem;
+    height:auto;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+  }
+  mat-paginator{
+    margin-top: 1rem;
+  }
+  
